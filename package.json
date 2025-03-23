@@ -39,7 +39,8 @@
   "files": [
     "out/",
     "src/",
-    "!*.test.*"
+    "!*.test.*",
+    "lib-dynamodb.js"
   ],
   "dependencies": {
     "@aws-sdk/client-dynamodb": "^3",
