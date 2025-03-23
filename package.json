@@ -1,6 +1,6 @@
 {
   "name": "@propulsionworks/magneto",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Command/expression builder for AWS DynamoDB",
   "keywords": [
     "dynamodb",
